@@ -43,7 +43,7 @@
 
 <h3 align="left">Connect With Me</h3>
 <div align="left">
-  <img src="./img/telegram_shield.svg" height="40" alt="linkedin logo"  />
+  <a href="https://t.me/makhametov"><img src="./img/telegram_shield.svg" height="40" alt="linkedin logo"  /></a>
   <img width="12" />
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
 </div>
