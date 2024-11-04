@@ -3,7 +3,11 @@
 <h3 align="center">A passionate Front-End Developer from Uzbekistan</h3>
 
 <img align="right" height="200" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"  />
-<p align="left">📚 I'm currently learning <b>Node.js</b><br>🎯 Goals: My goal is to become a skilled and confident web developer, capable of building high-quality, scalable web applications.<br>🎲 Fun fact: I am enthusiastic about learning and have a good sense of humor.</p>
+<p align="left">📚 I'm currently learning <b>Node.js</b>
+  <br>🎯 Goals: My goal is to become a skilled and confident 
+  <br> web developer, capable of building high-quality, scalable web applications.
+  <br>🎲 Fun fact: I am enthusiastic about learning and have a good sense of humor.
+</p>
 
 <h3 align="left">Languages</h3>
 <div align="left">
@@ -43,9 +47,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
 </div>
-
-
-
 
 <h3 align="left">GitHub Status</h3>
 
