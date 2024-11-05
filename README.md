@@ -45,7 +45,7 @@
 <div align="left">
   <a href="https://t.me/makhametov"><img src="./img/telegram_shield.svg" height="40" alt="linkedin logo"  /></a>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/influence_on1/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  /></a>
 </div>
 
 <h3 align="left">GitHub Status</h3>
